@@ -66,7 +66,7 @@ lib/
 ## Getting started
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AbhinavMaram/pulse_dashboard.git
 cd pulse_dashboard
 flutter pub get
 
