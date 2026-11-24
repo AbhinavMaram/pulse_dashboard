@@ -7,6 +7,8 @@ A motion-rich fitness dashboard built with **Flutter**. Every chart, ring and tr
 </p>
 
 <p align="center">
+  <a href="https://abhinavmaram.github.io/pulse_dashboard/"><strong>▶ Try the live demo</strong></a>
+  &nbsp;·&nbsp;
   <a href="pulse_demo.mp4">Watch the full-quality MP4</a>
 </p>
 
